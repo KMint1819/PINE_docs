@@ -1,8 +1,9 @@
 ![PINE logo](https://imgur.com/GU3kdQh.jpg)
+
+# NOTE: Since the source code of PINE is confidential, this repository only contains the documentation and usage. 
+
 # Pine
 A web server for training machine learning models.
-
-**NOTE: Since the source code is confidential, this repository only contains the documentation and usage.**
 
 ## Model choices
 - Machine learning
